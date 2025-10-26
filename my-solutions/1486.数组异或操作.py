@@ -67,4 +67,3 @@ class Solution:
             res ^= start + 2 * i
         return res
 # @lc code=end
-
