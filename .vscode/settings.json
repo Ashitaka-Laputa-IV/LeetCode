@@ -1,3 +1,7 @@
 {
-    "python.REPL.enableREPLSmartSend": false
+    "files.associations": {
+        "vector": "cpp",
+        "list": "cpp",
+        "xstring": "cpp"
+    }
 }
